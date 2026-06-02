@@ -75,3 +75,4 @@ google-services.json
 # Claude Code
 .claude/
 AGENTS.md
+node_modules
