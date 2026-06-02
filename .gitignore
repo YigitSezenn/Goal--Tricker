@@ -71,3 +71,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Claude Code
+.claude/
+AGENTS.md
